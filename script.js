@@ -27,6 +27,9 @@ mainbutton.addEventListener("click",function(){
       status.style.backgroundColor = "green";
 
     })
+    dlt.addEventListener("click",function(){
+      creatediv.remove()
+    })
    
    
  

@@ -156,3 +156,7 @@ input::placeholder{
     cursor: pointer;
     
 }
+.fa-trash:hover{
+   color: red;
+   font-size: 21px;
+}
